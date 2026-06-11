@@ -1,6 +1,6 @@
 # PCA-EXP-5-Implement-Matrix-Multiplication-using-CUDA-C.-Find-the-elapsed-time.
 # NAME: Selva Kani R
-# REG NO: 230500202020
+# REG NO: 2305002020
 
 ## Aim:
 To implement Matrix Multiplication using CUDA C on the GPU and measure the elapsed execution time.
